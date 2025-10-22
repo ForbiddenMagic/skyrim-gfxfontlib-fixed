@@ -9,7 +9,7 @@ because <ins>you wont see text</ins>.
  
 You can put that file (gfxfontlib.swf) next to interface you are editing to display some fonts, 
 but the issue is that main font that the game uses is missing ($EverywhereMediumFont)
-and you are just going to see some text, not all.
+and <ins>you are just going to see some text, not all</ins>.
  
 # Solution:
 
