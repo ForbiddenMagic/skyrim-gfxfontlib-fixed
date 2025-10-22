@@ -15,9 +15,9 @@ and <ins>you are just going to see some text, not all</ins>.
 
 1. Place this fixed - gfxfontlib.swf
 next to your edited interface file:
-
+<div align="center">
 <img width="300" src="https://github.com/user-attachments/assets/3bbc2e4f-cc96-4ee8-9a92-812a6912d6b6" />
- 
+</div>
  
 2. When opening swf file say yes, that you want to load gfxfontlib.swf:
 
