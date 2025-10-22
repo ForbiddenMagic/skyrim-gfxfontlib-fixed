@@ -21,17 +21,21 @@ next to your edited interface file:
  
 2. When opening swf file say yes, that you want to load gfxfontlib.swf:
 
+<div align="center">
 <img width="300" src="https://github.com/user-attachments/assets/368935b5-8ece-471c-8e1c-57be4d5a5a4a" />
- 
+</div>
  
 3. Now it should display all text correctly, like this:
 
+<div align="center">
 <img width="600" src="https://github.com/user-attachments/assets/cef35838-074f-4cd7-8539-fea37f342433" />
- 
+</div>
  
 This is without fix:
 
+<div align="center">
 <img width="600" src="https://github.com/user-attachments/assets/aec443b3-867b-4f3f-bff5-601fffdd75ef" />
+</div>
 
 > [!WARNING]
 > You dont need to include __"gfxfontlib.swf"__ in your interface mods!
