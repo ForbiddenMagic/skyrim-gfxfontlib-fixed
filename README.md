@@ -26,12 +26,12 @@ When opening swf file say yes, that you want to load gfxfontlib.swf:
  
 Now it should display all text correctly, like this:
 
-<img width="300" src="https://github.com/user-attachments/assets/cef35838-074f-4cd7-8539-fea37f342433" />
+<img width="600" src="https://github.com/user-attachments/assets/cef35838-074f-4cd7-8539-fea37f342433" />
  
  
 This is without fix:
 
-<img width="300" src="https://github.com/user-attachments/assets/aec443b3-867b-4f3f-bff5-601fffdd75ef" />
+<img width="600" src="https://github.com/user-attachments/assets/aec443b3-867b-4f3f-bff5-601fffdd75ef" />
 
 > [!WARNING]
 > You dont need to include __"gfxfontlib.swf"__ in your interface mods!
