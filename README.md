@@ -5,7 +5,7 @@ Example with __"lockpickingmenu.swf"__
   When opening interface (.swf) files with [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler)
 it prompts you to load missing __"gfxfontlib.swf"__ file,
 all tutorials say you to ingore that, but that will make it harder to modify visuals,
-because you wont see text.
+because <ins>you wont see text</ins>.
  
 You can put that file (gfxfontlib.swf) next to interface you are editing to display some fonts, 
 but the issue is that main font that the game uses is missing ($EverywhereMediumFont)
