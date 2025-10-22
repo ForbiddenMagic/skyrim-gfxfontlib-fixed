@@ -13,18 +13,18 @@ and <ins>you are just going to see some text, not all</ins>.
  
 # Solution:
 
-Place this fixed - gfxfontlib.swf
+1. Place this fixed - gfxfontlib.swf
 next to your edited interface file:
 
 <img width="300" src="https://github.com/user-attachments/assets/3bbc2e4f-cc96-4ee8-9a92-812a6912d6b6" />
  
  
-When opening swf file say yes, that you want to load gfxfontlib.swf:
+2. When opening swf file say yes, that you want to load gfxfontlib.swf:
 
 <img width="300" src="https://github.com/user-attachments/assets/368935b5-8ece-471c-8e1c-57be4d5a5a4a" />
  
  
-Now it should display all text correctly, like this:
+3. Now it should display all text correctly, like this:
 
 <img width="600" src="https://github.com/user-attachments/assets/cef35838-074f-4cd7-8539-fea37f342433" />
  
