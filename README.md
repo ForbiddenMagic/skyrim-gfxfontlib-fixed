@@ -33,6 +33,7 @@ This is without fix:
 
 <img width="1274" height="717" alt="without-fix" src="https://github.com/user-attachments/assets/aec443b3-867b-4f3f-bff5-601fffdd75ef" />
 
-## You dont need to include __"gfxfontlib.swf"__ in your interface mods!
-## Game uses its own fonts.
+> [!WARNING]
+> You dont need to include __"gfxfontlib.swf"__ in your interface mods!
+> Game uses its own fonts.
 
