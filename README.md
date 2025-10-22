@@ -17,3 +17,6 @@ next to your edited interface file
 
 and it should display all text correctly, like this:
 <img width="1274" height="715" alt="fixed-font" src="https://github.com/user-attachments/assets/b050853c-5612-4678-8e03-a8d6d766f4e4" />
+
+whithout fix:
+<img width="1274" height="717" alt="without-fix" src="https://github.com/user-attachments/assets/aec443b3-867b-4f3f-bff5-601fffdd75ef" />
